@@ -4,6 +4,8 @@ This repository contains a simple and stylish **Calculator app** built using **H
 
 It includes a **toggle switch** to switch between **Light** and **Dark modes**, providing a clean and responsive user interface.
 
+## 🌐 Live Demo  https://adarsh-70.github.io/Calculator/
+
 ## 🛠️ Technologies Used
 
 - HTML5
